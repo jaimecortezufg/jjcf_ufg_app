@@ -1,0 +1,33 @@
+{
+    "lang": "es-SV",
+    "name": "Registro de personas",
+    "short_name": "Registro de personas",
+    "description": "Pequeño sistema de registro de personas, en este, el usuario puede registrar datos personales como: nombre, apellidos,fecha de nacimiento, numero de telefono y correo electrónico",
+    "start_url": "./",
+    "background_color": "#2f3d58",
+    "theme_color": "#2f3d58",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./media/icon/256x256.png",
+            "sizes": "256x256"
+        }
+    ],
+	"screenshots": [
+        {
+            "src": "media/screenshots/1920x990.png",
+            "sizes": "1920x990",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Pantalla wide"
+        },{
+            "src": "media/screenshots/1081x2404.png",
+            "sizes": "1081x2404",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Pantalla móvil"
+        }
+    ]
+
+}
